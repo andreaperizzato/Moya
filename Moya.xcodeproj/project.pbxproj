@@ -877,6 +877,7 @@
 					};
 					091F0D431BDE9A01009D0A49 = {
 						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 0800;
 					};
 					091F0D821BDE9D4D009D0A49 = {
 						CreatedOnToolsVersion = 7.1;
@@ -1812,6 +1813,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.ReactiveMoya;
 				PRODUCT_NAME = ReactiveMoya;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -1835,6 +1837,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.ReactiveMoya;
 				PRODUCT_NAME = ReactiveMoya;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
